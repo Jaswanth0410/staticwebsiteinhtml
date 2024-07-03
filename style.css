@@ -1,0 +1,42 @@
+body{
+    background-color: whitesmoke;
+}
+
+
+.logo{
+    width:200px;
+    height: 200px;
+
+}
+
+.header{
+    justify-content: left;
+}
+
+.contain{
+    padding : 50px 60px;
+    margin: 30px;
+    background-color: blue;
+}
+
+.box{
+    border-radius: 2px;
+    box-shadow: 5px;
+}
+.img{
+    width: 200px;
+    height: 200px;
+    opacity: 150%;
+    justify-content: center;
+    /* margin: 40px; */
+    float: top;
+}
+
+.box{
+   margin: 30px;
+   font-size: 16px;
+   border-color: black;
+   
+    box-shadow: 10px 10px 8px 10px black;
+
+}
